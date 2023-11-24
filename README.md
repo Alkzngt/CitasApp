@@ -1,2 +1,2 @@
 # CitasApp
-Proyecto de la materia de Servicios Web
+Proyecto de Servicios Web de noveno semestre de ICI.
